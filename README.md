@@ -1,7 +1,6 @@
 # CanineCare AI — Stray Dog Health Risk Classifier
 
-**Das Gajraj Sharma · 20213215723 · B.Tech CSE DS 6th Sem**  
-B.Tech Engineering Project · SSMDA · Powered by TensorFlow 2.x & Streamlit
+Powered by TensorFlow 2.x & Streamlit
 
 ---
 
@@ -216,15 +215,9 @@ The hero animation loads from an external URL (`lottiefiles.com`). If you're off
 
 ---
 
-## Subject Context
-
-This project was built as part of the **SSMDA (Statistics and Machine Learning Data Analysis)** subject in B.Tech CSE (Data Science), 6th Semester.
----
-
 ## License
 
 Academic project — not licensed for commercial use.
 
 ---
 
-*Das Gajraj Sharma · 20213215723 · B.Tech CSE DS 6th Sem · SSMDA*

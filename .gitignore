@@ -1,6 +1,9 @@
-*jpg
+**/*.jpg
 *.ipynb_checkpoint/
 *.pyc
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+stray-dog-cnn/model/*
+.venv/
+dog_health_cnn.keras
