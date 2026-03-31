@@ -7,3 +7,5 @@ __pycache__/
 stray-dog-cnn/model/*
 .venv/
 dog_health_cnn.keras
+stanford-dogs-dataset-traintest/
+dogs-skin-disease-dataset/
